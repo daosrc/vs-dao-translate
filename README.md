@@ -1,5 +1,7 @@
 # VS DAO Translate
 
+[English Version](README.md) | [中文版](README-zh.md)
+
 A powerful translation plugin that supports selection translation and hover translation features.
 
 ## Features
@@ -23,5 +25,3 @@ A powerful translation plugin that supports selection translation and hover tran
 1. Select text and right-click to choose "Translate Selected Text"
 2. Or use keyboard shortcuts to trigger translation command
 3. Hover over words to view translations
-
-[中文版](README-zh.md)

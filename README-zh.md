@@ -1,5 +1,7 @@
 # VS DAO Translate
 
+[English Version](README.md) | [中文版](README-zh.md)
+
 一个强大的翻译插件，支持划词翻译和悬停翻译功能。
 
 ## 功能
@@ -23,5 +25,3 @@
 1. 选择文本后右键选择"Translate Selected Text"
 2. 或使用快捷键触发翻译命令
 3. 悬停在单词上查看翻译结果
-
-[English Version](README.md)
